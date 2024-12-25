@@ -1,3 +1,3 @@
-welcome to my project
+welcome to my "git for testing"  project
 author: mulwani hitesh haresh 
 twitter: @hite.sh
