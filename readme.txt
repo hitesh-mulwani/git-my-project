@@ -1,3 +1,3 @@
 welcome to my project
-author: hitesh haresh mulwani
+author: hitesh hareshlal mulwani
 twitter: @hite.sh
